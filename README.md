@@ -16,6 +16,8 @@ The system is built to cater to a range of expertise levels but assumes a techni
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Mechanical Simulator](https://github.com/sourceduty/Mechanical_Simulator)
+<br>
+[Biomechanical](https://github.com/sourceduty/Biomechanical_Logic)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
